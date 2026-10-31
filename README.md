@@ -1,0 +1,2 @@
+# mango-flake
+MangoWM configuration
